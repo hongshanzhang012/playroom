@@ -1,0 +1,12 @@
+build a game with playroom kit.
+create a room and join with code:
+each player has an ipad, the first player create a new room, a few players join in with the code.
+
+how to play:
+show a picture, every player gets to enter a few words representing the element he 
+wishes to add to the picture. These texts are shown to all players anonymousely.
+Each player has a number of cards equals to number of players. Each card has one player's name.
+ he guesses whose text it comes from and put the name card beside the text. 
+ 
+ count points:
+ The one who guesses right get a point, and the one who wrote the text also get a point.
